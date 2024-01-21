@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">peliculasAPI</string>
+    <string name="movie_detail_activity_title" />
+</resources>
